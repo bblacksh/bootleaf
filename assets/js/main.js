@@ -3,7 +3,7 @@ var map, boroughSearch = [],
     museumSearch = [];
 
 /* Basemap Layers */
-var mapboxTiles = L.tileLayer('https://{s}.tiles.mapbox.com/v3/examples.map-zr0njcqy/{z}/{x}/{y}.png', {
+var mapboxTiles = L.tileLayer('https://{s}.tiles.mapbox.com/v3/bblacksh.g8lhjce5/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '<a href="http://www.mapbox.com/about/maps/" target="_blank">Terms &amp; Feedback</a>'
 });
